@@ -1,4 +1,4 @@
-# 100DaysOfSwiftUI with Lexonerus
+# 100DaysOfSwiftUI with lexonerus
 ![Title](/pictures/title0.png)
 My path of learning SwiftUI with hackingwithswift.com including checkpoints and projects code
 
